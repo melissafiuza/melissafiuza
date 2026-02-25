@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/melissafiuza/melissafiuza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="left">Melissa Fiuza</h1>
 
 ###
@@ -6,9 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/melissafiuza/melissafiuza/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h2 align="left">Sobre mim</h2>
 
