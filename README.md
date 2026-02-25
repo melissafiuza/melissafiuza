@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/melissafiuza/melissafiuza/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h1 align="left">Melissa Fiuza</h1>
 
