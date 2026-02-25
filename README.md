@@ -1,4 +1,10 @@
-## Hi there 👋
+##ystems Analysis and Development
+
+I'm a student at FIAP, currently pursuing a degree in Systems Analysis and Development. I am seeking to grow professionally in my areas of interest, which include Data Analysis, Artificial Intelligence (A.I), and Front-end development.
+With this profile, my goal is not only to share my projects but also to document my progress and apply continuous improvement throughout my journey.
+
+🛠 Language and tools
+html5 logo  css logo  java logo  git logo  vscode logo  figma logo 
 
 <!--
 **melissafiuza/melissafiuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
