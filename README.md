@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋🏻 Olá, eu sou a Melissa!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+eu+sou+a+Melissa!" alt="Typing SVG" />
+</a>
 
 <img src="./assets/image.png" width="100%"/>
 
@@ -34,13 +36,11 @@ Também tenho explorado diferentes áreas da tecnologia, especialmente **dados**
 ## 🛠️ Tecnologias
 
 ### 💻 Desenvolvimento
-
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python" />
 </div>
 
 ### 🔧 Ferramentas
-
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea,pycharm" />
 </div>
@@ -50,18 +50,15 @@ Também tenho explorado diferentes áreas da tecnologia, especialmente **dados**
 ## 🚀 Projetos em destaque
 
 ### 🧠 Void Seed
-
 Projeto desenvolvido para a **Global Solution da FIAP**, utilizando tecnologia para abordar questões relacionadas ao cultivo em Marte.
 
 **Tecnologias:** HTML • CSS • JavaScript
 
- 
 💻 [Ver repositório](https://github.com/melissafiuza/Global-Solution.git)
 
 ---
 
 ### ♿ DexMove
-
 Projeto acadêmico desenvolvido em equipe com foco em **acessibilidade e inclusão**, buscando utilizar tecnologia para auxiliar pessoas com paralisia cerebral.
 
 **Tecnologias:** HTML • CSS • JavaScript • React
@@ -72,7 +69,6 @@ Projeto acadêmico desenvolvido em equipe com foco em **acessibilidade e inclus�
 ---
 
 ### 🍰 Nane Confeitaria
-
 Projeto de desenvolvimento web criado para apresentar produtos de uma confeitaria de forma organizada, intuitiva e visualmente agradável.
 
 **Tecnologias:** HTML • CSS • JavaScript • React
